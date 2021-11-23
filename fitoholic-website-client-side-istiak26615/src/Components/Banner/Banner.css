@@ -1,0 +1,26 @@
+.header-img{
+    background-image: url('https://s7d2.scene7.com/is/image/TWCNews/brooklyn-gym-generic-file-covidjpg');
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin:0;
+    padding:0;
+    
+}
+
+.explorebtn{
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #252482;
+  color: white;
+  border: 1px solid #252482;
+  border-radius: 10px;
+  padding: 50px;
+}

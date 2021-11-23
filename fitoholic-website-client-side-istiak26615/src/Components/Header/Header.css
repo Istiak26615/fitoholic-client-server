@@ -1,0 +1,45 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    cursor: pointer;
+    padding-top: 15px;
+    text-decoration: none;
+   
+  }
+  .menubar{
+      background-color: #252482;
+  }
+
+  .signup{
+    background-color: gray;
+    border: 1px solid gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px 20px;
+    color: black;
+  }
+
+  .logo-img{
+      padding-bottom: 10px;
+  }
+
+  .logo-img img{
+      border: 1px solid gray;
+      border-radius: 50%;
+      height: 60px;
+      width: 60px;
+      margin-right: 10px;
+
+  }
+
+  .user-name{
+      color: white;
+      font-weight: 100;
+      padding: 10px;
+      margin-top:15px;
+      
+  }

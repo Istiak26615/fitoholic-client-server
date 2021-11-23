@@ -1,0 +1,26 @@
+.login-bg{
+    margin: 100px;
+}
+.login-input-design{
+    border: 1px solid white;
+    padding: 10px;
+    padding-right: 60px;
+    margin:5px;
+}
+
+.login-button{
+    background-color: #252482;
+    border: #252482;
+    border-radius: 10px;
+    padding: 10px;
+    /* padding-right: 105px;
+    padding-left: 105px; */
+    width: 260px;
+    color: white;
+    margin: 20px;
+}
+
+#takeToLogin{
+    text-decoration: none;
+    color: white;
+}
